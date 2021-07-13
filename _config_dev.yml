@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/website"
 url: "https://alexcaldarone.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION

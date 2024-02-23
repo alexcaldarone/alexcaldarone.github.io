@@ -21,6 +21,5 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I'm Alex, a 21-year old university student, currently enrolled in the Statistics for Technology and Sciences undergraduate course at the University of Padova (Italy).
 
-My interests are at the intersection of programming, statistcs and cool stuff that can be done with tech.
 
 **Contacts:** [LinkedIn](https://www.linkedin.com/in/alexjohncaldarone/) &nbsp; \| &nbsp; [Github](https://github.com/alexcaldarone)

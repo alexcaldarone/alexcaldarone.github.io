@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Alex, a 21-year old university student, currently enrolled in the Statistics for Technology and Sciences undergraduate course at the University of Padova (Italy).
+I'm a Statistics MSc student at EPFL. Previously, I completed my Bachelor's degree in Statistics for Technology and Science at the University of Padova. My interest are:
 
 
-**Contacts:** [LinkedIn](https://www.linkedin.com/in/alexjohncaldarone/) &nbsp; \| &nbsp; [Github](https://github.com/alexcaldarone) &nbsp; \| &nbsp; `alexjohn [dot] caldarone [at] studenti [dot] unipd [dot] it`
+
+
+**Contacts:** [LinkedIn](https://www.linkedin.com/in/alexjohncaldarone/) &nbsp; \| &nbsp; [Github](https://github.com/alexcaldarone) &nbsp; \| &nbsp; `alex [dot] caldarone [at] epfl [dot] ch`

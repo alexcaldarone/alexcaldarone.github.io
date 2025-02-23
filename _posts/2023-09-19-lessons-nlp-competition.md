@@ -7,7 +7,7 @@ tags: Programming
 
 Earlier this month, together with two other students from the University of Padua, I took part in the [ITADATAhack 2023](https://journal.opendataplayground.com/ITADATAhack-2023/) competition. This proved to be an incredible opportunity to push my capabilities in data analysis and modelling. 
 
-The competition consisted of developing a classification algorithm that, given the raw text of a legal document as input, would be able to classify the document in the correct category. In order to do this, we were given access to a dataset containing the legal documents found in the [EURLex database](https://eur-lex.europa.eu/collection/eu-law/legislation/recent.html). The competition spanned over 3 days and was organized in increasing levels of difficulty. 
+The competition consisted of developing a classification algorithm that, given the raw text of a legal document as input, would be able to classify the document in the correct category. In order to do this, we were given access to a dataset containing the legal documents found in the EURLex database. The competition spanned over 3 days and was organized in increasing levels of difficulty. 
 
 On the first day we had to solve a 20 label classification problem, then a 96 label classification on the second day and then on the last day we had to deal with a binary multi-label classification problem (where each label had 89 dimensions). This competition was open to all universities in Italy and there were a total of 31 participating teams.
 

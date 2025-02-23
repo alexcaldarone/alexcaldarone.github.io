@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a Statistics MSc student at EPFL. Previously, I completed my Bachelor's degree in Statistics for Technology and Science at the University of Padova. My interest are:
+I'm a Statistics MSc student at EPFL. Previously, I completed my Bachelor's degree in Statistics for Technology and Science at the University of Padova and interned as an undergraduate researcher at the University of Warwick.
+
+I am broadly interested in bayesian statistics, reinforcement learning and network data. Some courses I've enjoyed (or taking) are Statistical Inference, Measure Theory, Reinforcement Learning, Deep Learning, Causal Inference and Markov Chains.
 
 
 

@@ -1,0 +1,122 @@
+/* Base styles */
+body {
+    font-family: -apple-system, Helvetica, arial, sans-serif;
+    color: #37352f;
+    background-color: #ffffff;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.2em; /* Reduced from 0.3em */
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.25rem;
+}
+
+p {
+    margin-top: 0.1em; /* Reduced from 0.2em */
+    margin-bottom: 1em;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: 1em;
+}
+
+.list-disc {
+    list-style-type: '>  ';
+    padding-left: 1.5rem;
+}
+
+/* Links */
+a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Spacing */
+.mt-4 {
+    margin-top: 1rem;
+}
+
+/* Custom styles */
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-left {
+    align-items: flex-start;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+/* Text styles */
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+/* Description style */
+.description {
+    color: #808080; /* Gray color */
+}
+
+
+/* Navigation */
+nav {
+    margin-bottom: 2rem;
+}
+
+nav a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* KaTeX adjustments */
+.katex-display {
+    margin: 1em 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/* Blog listing page styles */
+.blog-posts h3 {
+    font-size: 1em; /* Same size as normal text */
+    font-weight: 600; 
+}
+
+.blog-posts .post-meta {
+    font-size: 0.85em; /* Smaller than normal text */
+    color: #808080; /* Gray color - matches your description style */
+    margin-top: 0.2em;
+    margin-bottom: 1.5em;
+}

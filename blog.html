@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog - Alex John Caldarone</title>
+    <link href="styles.css" rel="stylesheet" />
+    <!-- KaTeX CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <!-- KaTeX JS -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  </head>
+  <body class="container">
+    <div class="flex-col">
+      <nav class="mb-4">
+        <a href="index.html"> Home</a>
+      </nav>
+      
+      <div class="blog-posts">
+        <!-- find a way to automate this with basic javascript? -->
+        <article class="blog-post mb-8">
+          <h3><a href="posts/2025-07-10-markov-chain-mcmc.html">The Markov Chain in Markov Chain Monte Carlo</a></h3>
+          <p class="post-meta text-gray-600">July 10, 2025</p>
+
+          <h3><a href="posts/2025-02-02-gmm-mcmc.html">MCMC for Gaussian Mixture Models</a></h3>
+          <p class="post-meta text-gray-600">February 02, 2025</p>
+        </article>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "$", right: "$", display: false},
+            {left: "\\(", right: "\\)", display: false},
+            {left: "\\[", right: "\\]", display: true}
+          ]
+        });
+      });
+    </script>
+  </body>
+</html> 
